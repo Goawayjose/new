@@ -17,5 +17,8 @@
 	 * @hooked storefront_init_structured_data - 30
 	 */
 	do_action( 'storefront_page' );
+
 	?>
+
+
 </div><!-- #post-## -->
