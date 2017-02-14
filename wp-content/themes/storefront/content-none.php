@@ -30,5 +30,7 @@
 			<?php get_search_form(); ?>
 
 		<?php endif; ?>
+
+		 
 	</div><!-- .page-content -->
 </div><!-- .no-results -->
