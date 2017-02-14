@@ -47,7 +47,8 @@ $cart_page_url = get_permalink( woocommerce_get_page_id( 'cart' ) );
 
   </div>
 
-    <a href="<?php echo $cart_page_url; ?>"><li>cart</li></a>
+    <a href="<?php echo $cart_page_url; ?>"><h3><i class="fa fa-shopping-bag" aria-hidden="true"></i>
+</h3></a>
 
     </div>
   </div>
